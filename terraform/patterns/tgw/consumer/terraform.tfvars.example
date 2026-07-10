@@ -1,0 +1,4 @@
+aws_region               = "ap-southeast-2"
+project_name             = "apcp-tgw"
+vpc_cidr                 = "10.23.0.0/16"
+shared_services_vpc_cidr = "10.13.0.0/16"

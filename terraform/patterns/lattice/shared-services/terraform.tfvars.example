@@ -1,0 +1,5 @@
+aws_region           = "ap-southeast-2"
+project_name         = "apcp-lat"
+vpc_cidr             = "10.12.0.0/16"
+consumer_account_id  = "ACCT-CONSUMER"
+consumer_vpc_cidr    = "10.22.0.0/16"
